@@ -31,5 +31,4 @@ ___
 ![image](https://user-images.githubusercontent.com/89520192/150416074-9e8c6d23-72f8-4355-9488-acb2facde3b3.png)
 ___
 ### Cryptocurrencies Summary
-
-
+The different groups from the data provided were sorted by class for the client to have a clearer view of the possible options they have in the cryptocurrency market.
